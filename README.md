@@ -16,7 +16,9 @@ HashCopy is currently inferior to NEM in a few ways, which I am planning on cont
 2. NEM has a checkbox to turn recursively copying subdirectories on and off.
 
 I would classify myself as beginner to intermediate skill level with PowerShell; there will surely be many things in this script that can be improved.
-A lot of my previous scripts had no error handling at all, it's something I have really only stated thining about with my last few tools.
+A lot of my previous scripts had no error handling at all, it's something I have really only stated thinking about with my last few tools.
 I still feel like this script makes too many assumptions that things have gone right.
+
+The GIF is an adaptation of a still image I found on www.poeticoding.com and is used with permission - please go check out the website!
 
 I have no idea what the community is like here on GitHub, will anyone ever read this?
