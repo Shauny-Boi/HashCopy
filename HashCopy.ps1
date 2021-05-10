@@ -1,5 +1,6 @@
 # HashCopy Powershell script written by Shaun Curtis, 2021
 # https://github.com/Shauny-Boi/HashCopy
+# The GIF is an adaptation of a still image I found on www.poeticoding.com and is used with permission - please go check out the website!
 # Licensed under GNU General Public License v3.0
 # For more information on this, and how to apply and follow the GNU GPL, see https://www.gnu.org/licenses/
 
